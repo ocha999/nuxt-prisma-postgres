@@ -7,18 +7,18 @@ Nuxt 4 と Prisma を使用した最小限のスターター テンプレート�
 ## インストール済みパッケージ
 
 ### Dependencies
-- `@prisma/adapter-pg` (^7.0.1) - PostgreSQL adapter for Prisma
-- `@prisma/client` (^7.0.1) - Prisma Client for database access
-- `dotenv` (^17.2.3) - Environment variable management
-- `nuxt` (^4.2.1) - Nuxt framework
-- `pg` (^8.16.3) - PostgreSQL client
-- `tsx` (^4.20.6) - TypeScript execute
-- `vue` (^3.5.25) - Vue.js framework
-- `vue-router` (^4.6.3) - Vue Router
+- `@prisma/adapter-pg` (^8.0.0) - PostgreSQL adapter for Prisma
+- `@prisma/client` (^8.0.0) - Prisma Client for database access
+- `dotenv` (^17.2.4) - Environment variable management
+- `nuxt` (^4.2.2) - Nuxt framework
+- `pg` (^8.16.4) - PostgreSQL client
+- `tsx` (^4.20.7) - TypeScript execute
+- `vue` (^3.5.26) - Vue.js framework
+- `vue-router` (^4.6.4) - Vue Router
 
 ### DevDependencies
-- `@types/pg` (^8.15.6) - TypeScript types for pg
-- `prisma` (^7.0.1) - Prisma CLI
+- `@types/pg` (^8.15.7) - TypeScript types for pg
+- `prisma` (^7.2.0) - Prisma CLI
 
 ## 概要
 
